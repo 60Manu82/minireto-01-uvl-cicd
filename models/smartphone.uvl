@@ -1,0 +1,8 @@
+features
+    Smartphone
+        mandatory
+            Screen
+            Battery
+        optional
+            NFC
+            GPS
